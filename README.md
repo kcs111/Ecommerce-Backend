@@ -23,9 +23,9 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Links
 
-[First](https://watch.screencastify.com/v/g8kHrxRqYhH5F2vj7YuK)
-[Second](https://watch.screencastify.com/v/9RmQftWsVGLtYP6sXAJv)
-[GitHub](https://github.com/kcs111/Ecommerce-Backend)
+- [First](https://watch.screencastify.com/v/g8kHrxRqYhH5F2vj7YuK)
+- [Second](https://watch.screencastify.com/v/9RmQftWsVGLtYP6sXAJv)
+- [GitHub](https://github.com/kcs111/Ecommerce-Backend)
 
 
 ## Up and Started
